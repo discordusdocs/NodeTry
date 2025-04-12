@@ -9,7 +9,7 @@ const client = new Client({
 });
 
 
-const token = process.env.BOT_TOKEN;
+const token = "MTM2MDQ2MTc0MDM0NDczNzk2Mw.GV6Kds.qdjgyXSgHt8k7QxLOsVO30Ii8fvguE7EjHkl-A";
 
 let userPoints = {};
 const pointsFile = 'points.json';
